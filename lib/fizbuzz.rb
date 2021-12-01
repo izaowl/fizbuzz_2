@@ -11,5 +11,3 @@ def fizbuzz(number)
   end 
 
 end
-
-p fizbuzz(3)
